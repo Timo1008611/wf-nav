@@ -36,6 +36,7 @@ export default {
       try {
         const response = await fetch(targetUrl, {
           headers: {
+            <script defer src="https://jk-rho-two.vercel.app/script.js" data-website-id="d63f0a85-37b8-4620-9d81-7d61db16b2c0"></script>
             "User-Agent": "Mozilla/5.0 (compatible; MyNavigator/1.0)"
           }
         });
